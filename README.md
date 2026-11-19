@@ -15,3 +15,5 @@ v1.0 Beta Early Access
 # Download
 
 Go to Releases And Download Offline Version OR Online Version
+
+https://github.com/APTMiMiMi-v2/PALFIFT-Android/releases
