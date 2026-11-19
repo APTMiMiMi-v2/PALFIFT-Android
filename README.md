@@ -17,3 +17,12 @@ v1.0 Beta Early Access
 Go to Releases And Download Offline Version OR Online Version
 
 https://github.com/APTMiMiMi-v2/PALFIFT-Android/releases
+
+
+# Auto Update
+
+
+This Automatic Update The Game
+
+
+https://github.com/APTMiMiMi-v2/PALFIFT-Android/releases/tag/Online
