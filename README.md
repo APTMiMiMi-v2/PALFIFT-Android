@@ -19,7 +19,7 @@ Go to Releases And Download Offline Version OR Online Version
 https://github.com/APTMiMiMi-v2/PALFIFT-Android/releases
 
 
-# Auto Update
+# Auto Update - Online
 
 
 This Automatic Update The Game
